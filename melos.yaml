@@ -1,4 +1,0 @@
-name: seek_qr_scanner_monorepo
-packages:
-  - apps/**
-  - packages/**
