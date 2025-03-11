@@ -1,6 +1,6 @@
 # qr_scanner_app
 
-Reto técnico para el proceso de seleccion de la empresa SEEk.
+Reto técnico para el proceso de seleccion de la empresa SEEK.
 
 ## Introducción
 
@@ -31,6 +31,7 @@ Para el manejo de microfrontends en este proyecto se ha usado Melos por lo cual 
 
 Luego ejecutamos el comando:
 -   melos bootstrap
+
 Esto resolverá las dependencias de nuestros packages y de nuestra aplicación principal
 
 Por último para ejecutar la aplicación lo podemos hacer de la siguiente manera:
