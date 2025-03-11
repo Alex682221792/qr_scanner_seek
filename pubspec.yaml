@@ -1,0 +1,9 @@
+name: seek_qr_scanner
+publish_to: none
+environment:
+  sdk: ^3.6.0
+workspace:
+  - packages/auth_plugin
+  - packages/qr_scanner_plugin
+dev_dependencies:
+  melos: ^6.3.2
